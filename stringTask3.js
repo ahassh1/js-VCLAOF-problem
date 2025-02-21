@@ -1,1 +1,0 @@
-// check whether a sting contains all the vowels are a, e, i, o, u 
